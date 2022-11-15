@@ -41,4 +41,4 @@ My roadmap to study Data Science.
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-------------------------------------|:-------------:|
 | [Бакалавр (ВУЗ МИРЭА)](https://www.mirea.ru/education/the-institutes-and-faculties/institut-kiberbezopasnosti-i-tsifrovykh-tekhnologiy/training-programs/bakalavriat/10-03-01-information-security/)           | Информационная безопасность         | **Completed** |
 | [Магистратура (ВУЗ МИРЭА)](https://www.mirea.ru/education/the-institutes-and-faculties/institut-kiberbezopasnosti-i-tsifrovykh-tekhnologiy/training-programs/magistratura/09-04-02-information-systems-and-technology/) | Информационные системы и технологии | **Completed** |
-| [Школа 21/Ecola 42](https://42.fr/en/homepage/)] | Школа программирования | **Completed** | 
+| [Школа 21/Ecola 42](https://42.fr/en/homepage/) | Школа программирования | **Completed** | 
