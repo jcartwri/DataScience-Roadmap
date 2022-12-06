@@ -17,6 +17,8 @@ My roadmap to study Data Science.
 | Title | Author |  Status   |
 | --- | :---: |:---------:|
 | Python. К вершинам мастерства | Лучано Рамальо | **To do** |
+| Чистая архитектура. Искусство разработки программного обеспечения | Мартин Роберт | **To do** |
+| Python. Книга Рецептов | Бизли Дэвид М., Кэвэна-Джонс Брайан | **To do** |
 
 ### Machine Learning & Natural Language Processing & Big Data
 #### Courses
